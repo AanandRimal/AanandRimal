@@ -8,7 +8,6 @@ Based in Nepal 🇳🇵 —working as a Software Developer building scalable web
 ## 🚀 About Me
 
 I’m a Full Stack Developer passionate about building modern, scalable, and high-performance applications.
-
 I work across both frontend and backend systems — from creating intuitive user experiences to designing APIs, business logic, integrations, and scalable architectures.
 
 ---
@@ -21,13 +20,13 @@ I work across both frontend and backend systems — from creating intuitive user
 ## 🔧 What I Work With
  
 **Frontend**
-React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS
+React · TypeScript · JavaScript · NextJS
  
 **Backend**
-Python · Node.js · REST APIs · PostgreSQL · Redis
+Python · Node.js · REST APIs · SQL/NOSQL · Redis
  
 **Tools & Infra**
-Git · Docker · Linux · AWS · Figma
+Git · Docker · AWS
  
 ---
  
