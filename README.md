@@ -17,25 +17,18 @@ I work across both frontend and backend systems — from creating intuitive user
 [**KrispCall as a Software Developer**](https://krispcall.com) — a cloud-based telephony platform enabling teams to make and receive calls from anywhere. Building features across the full stack, from React UI components to backend APIs.
  
 ---
-
-## 🛠 Tech Stack
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-
-### Backend
-- Python
-- Node.js
-- REST APIs
-
-### Tools & Platforms
-- Git & GitHub
-- Docker
-- Figma
-
+ 
+## 🔧 What I Work With
+ 
+**Frontend**
+React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS
+ 
+**Backend**
+Python · Node.js · REST APIs · PostgreSQL · Redis
+ 
+**Tools & Infra**
+Git · Docker · Linux · AWS · Figma
+ 
 ---
  
 ## 📬 Let's Connect
