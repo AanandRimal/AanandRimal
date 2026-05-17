@@ -1,6 +1,7 @@
 # Hi, I'm Aanand Rimal 👋
 ### Full Stack Developer — React · Python · Node.js
 *Building products people actually use.*
+
 Based in Nepal 🇳🇵 —working as a Software Developer building scalable web applications and cloud communication platforms.
 
 ---
