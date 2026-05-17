@@ -1,7 +1,7 @@
 # Hi, I'm Aanand Rimal 👋
-
-Full Stack Developer from Nepal 🇳🇵  
-Currently working as a Software Developer building scalable web applications and cloud communication platforms.
+### Full Stack Developer · React · Python · Open to Remote
+ 
+Based in Nepal 🇳🇵 —working as a Software Developer building scalable web applications and cloud communication platforms.
 
 ---
 
@@ -25,8 +25,6 @@ I work across both frontend and backend systems — from creating intuitive user
 - Next.js
 - TypeScript
 - JavaScript
-- Tailwind CSS
-- Ant Design
 
 ### Backend
 - Python
@@ -39,15 +37,6 @@ I work across both frontend and backend systems — from creating intuitive user
 - Figma
 
 ---
-
-## 🌍 Open To
-
-- Remote Full Stack Opportunities
-- Frontend Engineering Roles
-- React / Next.js Projects
-- Global & Remote Teams
-
----
  
 ## 📬 Let's Connect
  
@@ -56,8 +45,8 @@ I'm open to **remote opportunities** in full stack or frontend engineering.
 | | |
 |---|---|
 | 📧 Email | [aanandrimalo@gmail.com](mailto:aanandrimalo@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/aanandrimalo](https://linkedin.com/in/aanandrimalo) |
-| 🌐 Portfolio | [aanandrimalo.com.np](https://aanandrimalo.com.np) |
+| 💼 LinkedIn | [https://www.linkedin.com/in/aanand-rimal/](https://www.linkedin.com/in/aanand-rimal/) |
+| 🌐 Portfolio | [aanandrimal.com.np](https://aanandrimal.com.np) |
  
 ---
 
